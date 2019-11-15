@@ -1,11 +1,11 @@
-# Magnum2D-Empty
+# Rice2D-Empty
 
-This is Empty/Starter project for Magnum2D game-engine
+This is Empty/Starter project for Rice2D game-engine
 
 Clone it by:
 
 ```
-git clone --recursive https://github.com/BlackGoku36/Magnum2D-Empty.git
+git clone --recursive https://github.com/BlackGoku36/Rice2D-Empty.git
 ```
 
 Update it by:

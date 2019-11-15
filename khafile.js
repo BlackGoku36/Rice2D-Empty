@@ -1,0 +1,14 @@
+let project = new Project('New Project');
+project.addAssets('Assets/**');
+project.addShaders('Shaders/**');
+project.addSources('Sources');
+project.addLibrary('magnum2d');
+project.addLibrary('zui');
+project.addLibrary('echo');
+project.addLibrary('hxmath');
+project.addParameter('mag');
+project.addParameter("--macro keep('mag')");
+// project.addDefine('mag_ui');
+project.addDefine('mag_debug');
+// project.addDefine('mag_physics');
+resolve(project);

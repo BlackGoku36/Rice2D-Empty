@@ -1,0 +1,22 @@
+{
+    "name": "Scene",
+    "objects":[
+        {   
+            "name": "object",
+            "x": 400,
+            "y": 655,
+            "height": 256,
+            "width": 256,
+            "spriteRef": "blueguy.png",
+            "scripts": [
+                {
+                    "name": "SampleScript",
+                    "scriptRef": "ScriptTest"
+                }
+            ]
+        }
+    ],
+    "assets":[
+        "blueguy.png"
+    ]
+}

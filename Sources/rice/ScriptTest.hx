@@ -1,8 +1,8 @@
-package mag;
+package rice;
 
 import kha.graphics2.Graphics;
 
-class ScriptTest extends magnum2d.Script{
+class ScriptTest extends rice2d.Script{
 
     public function new() {
         super();

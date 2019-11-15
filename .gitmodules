@@ -13,3 +13,6 @@
 [submodule "Libraries/hxmath"]
 	path = Libraries/hxmath
 	url = https://github.com/tbrosman/hxmath
+[submodule "Libraries/Rice2D"]
+	path = Libraries/Rice2D
+	url = https://github.com/BlackGoku36/Rice2D

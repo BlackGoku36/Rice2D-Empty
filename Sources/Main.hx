@@ -1,6 +1,6 @@
 package;
 
-import magnum2d.App;
+import rice2d.App;
 
 class Main {
 

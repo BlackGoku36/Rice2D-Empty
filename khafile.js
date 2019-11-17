@@ -9,6 +9,6 @@ project.addLibrary('hxmath');
 project.addParameter('rice');
 project.addParameter("--macro keep('rice')");
 // project.addDefine('rice_ui');
-project.addDefine('rice_debug');
+// project.addDefine('rice_debug');
 // project.addDefine('rice_physics');
 resolve(project);

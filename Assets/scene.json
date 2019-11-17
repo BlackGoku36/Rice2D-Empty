@@ -3,14 +3,14 @@
     "objects":[
         {   
             "name": "object",
-            "x": 400,
-            "y": 655,
-            "height": 256,
+            "x": 150,
+            "y": 150,
             "width": 256,
+            "height": 256,
             "spriteRef": "blueguy.png",
             "scripts": [
                 {
-                    "name": "SampleScript",
+                    "name": "OurScript",
                     "scriptRef": "ScriptTest"
                 }
             ]

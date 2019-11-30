@@ -2,5 +2,6 @@
     "name":"Empty Rice2D",
     "width": 720,
     "height": 450,
-    "windowMode": 0
+    "windowMode": 0,
+    "clearColor": [100, 155, 255, 255]
 }

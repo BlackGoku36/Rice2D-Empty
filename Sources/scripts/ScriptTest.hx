@@ -1,4 +1,4 @@
-package rice;
+package scripts;
 
 class ScriptTest extends rice2d.Script{
 
@@ -13,8 +13,9 @@ class ScriptTest extends rice2d.Script{
             trace("Update!");
         });
 
-        notifyOnRender(function(g:kha.graphics2.Graphics){
-            g.fillTriangle(350, 350, 250, 350, 350, 250);
+        notifyOnRender(function(g:kha.Canvas){
+            var g2 = g.g2;
+            g2.fillTriangle(350, 350, 250, 350, 350, 250);
         });
 
     }

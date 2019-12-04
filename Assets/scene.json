@@ -7,7 +7,7 @@
             "y": 150,
             "width": 256,
             "height": 256,
-            "spriteRef": "blueguy",
+            "spriteRef": "blueguy.png",
             "scripts": [
                 {
                     "name": "OurScript",

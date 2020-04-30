@@ -1,15 +1,6 @@
 [submodule "Libraries/Kha"]
 	path = Libraries/Kha
 	url = https://github.com/Kode/Kha
-[submodule "Libraries/zui"]
-	path = Libraries/zui
-	url = https://github.com/armory3d/zui
-[submodule "Libraries/echo"]
-	path = Libraries/echo
-	url = https://github.com/AustinEast/echo
-[submodule "Libraries/hxmath"]
-	path = Libraries/hxmath
-	url = https://github.com/tbrosman/hxmath
 [submodule "Libraries/Rice2D"]
 	path = Libraries/Rice2D
 	url = https://github.com/BlackGoku36/Rice2D

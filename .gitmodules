@@ -4,3 +4,6 @@
 [submodule "Libraries/Rice2D"]
 	path = Libraries/Rice2D
 	url = https://github.com/BlackGoku36/Rice2D
+[submodule "Rice2D"]
+	path = Rice2D
+	url = https://github.com/BlackGoku36/Rice2D.git
